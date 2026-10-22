@@ -46,6 +46,9 @@ Copie os `.md` (sem as pastas) para `~/.claude/agents/` (todos os projetos) ou
 `<projeto>/.claude/agents/` (um projeto) e abra uma sessão nova do Claude Code.
 Chame pelo nome: *"use o Pipeline Analyst para analisar o funil do crm-barbearias"*.
 
+Os 26 foram instalados em `~/.claude/agents/` em 2026-10-21 (ao lado dos 9 do ECC). Para
+desinstalar, apague de lá os arquivos com os mesmos nomes desta pasta.
+
 ## Atualizar a partir do original
 
 Compare com o commit novo do upstream e copie de novo só os mesmos arquivos.
